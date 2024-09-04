@@ -1,6 +1,6 @@
 # State and Action Factorization in Power Grids
 
-Paper presented at the [ML4SPS workshop](https://sites.google.com/view/ml4sps) during the [ECML 2024] conference.
+Paper presented at the [ML4SPS workshop](https://sites.google.com/view/ml4sps) during the [ECML 2024](https://ecmlpkdd.org/2024/) conference.
 
 **Authors**: Gianvito Losapio, Davide Beretta, Marco Mussi, Alberto Maria Metelli, Marcello Restelli
 
